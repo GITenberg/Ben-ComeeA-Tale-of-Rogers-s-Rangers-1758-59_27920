@@ -1,0 +1,29 @@
+_repo: Ben-ComeeA-Tale-of-Rogers-s-Rangers-1758-59_27920
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27920-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Canavan, M. J. (Michael Joseph)
+    alias: Canavan, Michael Joseph
+    gutenberg_agent_id: '33013'
+    url: http://www.gutenberg.org/2009/agents/33013
+description: ''
+gutenberg_issued: '2009-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27920'
+  lccn: '99005498'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- French and Indian War, 1754-1763 -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+title: 'Ben Comee
+
+  A Tale of Rogers''s Rangers, 1758-59'
+url: http://www.gutenberg.org/ebooks/27920
