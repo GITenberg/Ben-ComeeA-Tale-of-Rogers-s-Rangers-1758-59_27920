@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33013'
     url: http://www.gutenberg.org/2009/agents/33013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27920#Ben-ComeeA-Tale-of-Rogers-s-Rangers-1758-59
 gutenberg_issued: '2009-01-28'
 gutenberg_type: Text
 identifiers:
